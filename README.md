@@ -2,7 +2,7 @@
 
 ## Description 
 
-This is a Portfolio based on the HTML semantic tags, using only html and css. Not frameworks, ¿HTML vanilla :flushed: ?
+This is a Portfolio based on the HTML semantic tags, using only html and css. Not frameworks, ¿HTML vanilla?
 This repo is based in a codeschool project. [See the Demo on codeschool](https://codeschool-project-demos.github.io/SemanticHTMLPortfolioProject/)
 
 
