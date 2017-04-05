@@ -8,7 +8,7 @@ This repo is based in a codeschool project. [See the Demo on codeschool](https:/
 
 ## Screen
 
-![image](captura.JPG)
+![image](captura.PNG)
 
 
 ## Live Demo
