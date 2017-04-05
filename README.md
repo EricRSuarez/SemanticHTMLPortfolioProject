@@ -7,4 +7,4 @@ This repo is based in a codeschool project. [See the Demo on codeschool](https:/
 
 ## Live Demo
 
-If you want see the demo in the gh-pages [Follow this link] (https://ericrsuarez.github.io/SemanticHTMLPortfolioProject/) 
+If you want see the demo in the gh-pages [Follow this link](https://ericrsuarez.github.io/SemanticHTMLPortfolioProject/) 
